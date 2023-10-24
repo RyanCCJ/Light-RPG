@@ -1,0 +1,1 @@
+是否為新檔(exist), 僧侶HP, 僧侶MP, 僧侶FP, 盜賊HP, 盜賊MP, 盜賊FP, 詩人HP, 詩人MP, 詩人FP, 當前天數(Day), 食物數量(food), 飲料數量(drink), 黃金數量(gold), 寶藏數量(treasure), 石頭數量(jewel), 龍蛋數量(egg), 小屋等級(house), 當前角色(role), 角色X座標(role_X), 角色Y座標(role_Y)
