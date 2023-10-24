@@ -62,5 +62,7 @@ In "Light-RPG," you can control your characters to perform the following actions
 - Characters can earn coins, buy food, rob the rich, heal teammates, or play music to regain MP.
 - After the game ends, your performance will be evaluated, and different titles will be awarded to your party.
 
+## Disclaimer
 
-Enjoy your adventure in "Light-RPG"! If you encounter any issues during the game or have questions, feel free to check the repository for additional information.
+- If you encounter any issues during the game or have questions, feel free to check the repository for additional information.
+- This game uses some online resources. If you have concerns about copyright infringement, please contact the author.
